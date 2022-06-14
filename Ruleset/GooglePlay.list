@@ -1,6 +1,8 @@
 DOMAIN,play.google.com
 ;DOMAIN,services.googleapis.cn
 DOMAIN,play-fe.googleapis.com
+DOMAIN,play-lh.googleapis.com
+DOMAIN,play.googleapis.com
 DOMAIN,services.googleapis.com
 DOMAIN,android.googleapis.com
 DOMAIN,www.googleapis.com
