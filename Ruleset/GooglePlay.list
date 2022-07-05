@@ -3,4 +3,4 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN,play.google.com
 DOMAIN,services.googleapis.cn
 DOMAIN,xn--ngstr-lra8j.com
-connectivitycheck.gstatic.com
+DOMAIN,connectivitycheck.gstatic.com
