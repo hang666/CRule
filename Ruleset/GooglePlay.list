@@ -2,5 +2,5 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN,play.google.com
 DOMAIN,services.googleapis.cn
-DOMAIN,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN,connectivitycheck.gstatic.com
